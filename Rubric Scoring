@@ -1,0 +1,48 @@
+Criteria	  Ratings	  Points
+
+A. Exploratory Data Analysis and Insights    4/4
+Good attempt overall. Things done well: 
+
+i. Missing values checked. ii. Duplicates checked. iii. Univariate analysis done on numerical columns. iv. Statistical summary for the variables is given.	
+
+B. Data pre-processing  4/4
+Nice job overall. Things done well: 
+
+i. Detection of missing values. ii. Treatment of missing values. iii. Avoiding data leakage	
+
+C. Model building (atleast 6 classification models)  6/6
+Good job overall. Things done well: 
+
+i. Built 6 different classification models with proper validation. ii. Models are optimized on proper metric. iii. Build XGBoost classifier.	
+
+D. Model building - Oversampled data  7/7
+Valiant effort. Things done well: 
+
+i. Oversampling perfectly done on the data. ii. Improvement in models using oversampled data.	
+
+E. Model building - Undersampled data  7/7
+Fabulous attempt. Things done well: 
+
+i. Under sampling perfectly done on the data. ii. Improvement in models using under sampled data.	
+
+F. Hyperparameter tuning  12/12
+Nicely done. Things done well: 
+
+i. Hyperparameter tuning done on chosen models. ii. Increased model performance using hyperparameter tuning.	
+
+G. Model Performances  5/5
+Marvelous attempt. Things done well: 
+
+i. Models are compared to each other in SBS manner. ii. Easy understanding to pick up the best preforming model.
+
+H. Productionize the model using pipelines  2.5/3
+Good attempt. Things done well: 
+i. Models are productionized using scikit learn pipeline. ii. Final metric evaluated on test set. 
+
+Things to improve: 1. Imputation, standardization, etc. should be part of pipeline itself.	
+
+I. Business Insights & Conclusions  3.5/4
+Very nicely done. There is not much insights that you can gather from attribute part but few things that can be recommended is to determine and analyze the actual variable after deciphering the given attributes.	
+
+J. Presentation/Notebook - Overall quality  7.5/8
+Near to perfect attempt. Clean execution of project with nice structure having a crispy flavor. Only few things can be suggested in insights section to make business rules which can make it perfect.	
